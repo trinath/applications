@@ -1,4 +1,4 @@
-# Node JS & Angular JS Notes
+# Node JS & Angular JS Quick Introduction
 * Web systems comprises of Client (Browser) and Server. Mode of communication between Browser and Server is through HTTP. 
 * HTTP request can be of two types. a) Ajax and b) Non Ajax. 
 * Web pages are represented internally as DOM tree which is manipulated by Javascript/Angular.
@@ -8,8 +8,11 @@
 * Express JS module has rich set of seperate javascript modules which can interact with Node JS.
 * The general javascript object is represented as `@Component( { selector : "monthcalendar", template :"<b>MonthCalendar</b>", styles:[] })`.
   - Component represents Decorator
-  - {} has JS object.
+  - {...} represents JS object.
   - monthcalendar represents object name.
   - template represents html to be displayed.
   - styles represents css.
 * Typescript is super set of javascript which is easy to develop and can be compiled to javascript. 
+
+# Resources
+* Refer [http://blog.teamtreehouse.com/install-node-js-npm-linux] for easy linux installation.
